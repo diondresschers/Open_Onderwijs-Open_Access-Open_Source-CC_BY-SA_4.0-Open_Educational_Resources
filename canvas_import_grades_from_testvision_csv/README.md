@@ -14,7 +14,7 @@ After you've exported the TestVision (or other tool) student results to CSV (or 
 
 ![](https://raw.githubusercontent.com/diondresschers/Open_Onderwijs-Open_Access-Open_Source-CC_BY-SA_4.0-Open_Educational_Resources/main/canvas_import_grades_from_testvision_csv/canvas_import_gradebook.png)
 
-Download here the CSV-template (right click on the CSV-file and than `Save as`): 
+Download here the CSV-template (right click on the CSV-file and then chooise `Save as` or something similiar): 
 [template_import_from_testvision_to_canvas_grades_v2021-06-17.csv](https://github.com/diondresschers/Open_Onderwijs-Open_Access-Open_Source-CC_BY-SA_4.0-Open_Educational_Resources/find/main)
 
 1. In Column `C` fill in all Student Numbers from row `2` (leaving the first row intact).
