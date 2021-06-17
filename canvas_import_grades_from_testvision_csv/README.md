@@ -4,9 +4,9 @@
 * Target audience: Everybody that uses Canvas LMS and want to import grades from another tool than Canvas.
 * By: Dion Dresschers from VU Amsterdam
 * License: CC BY-SA 4.0
-* Version: 2021-06-17 15:28:09
+* Inspiration: Other VU giants!
 * Status: Concept
-
+* Version: 2021-06-17 15:28:09
 
 # Steps:
 
